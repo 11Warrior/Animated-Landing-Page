@@ -8,6 +8,10 @@
 
 [https://duostudio-landingpage.netlify.app/](https://duostudio-landingpage.netlify.app/)
 
+<h2>Demo Video</h2>
+[https://s4.ezgif.com/tmp/ezgif-454ae372058964.gif]
+
+
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Clone this repo</p>
