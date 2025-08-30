@@ -9,8 +9,7 @@
 [https://duostudio-landingpage.netlify.app/](https://duostudio-landingpage.netlify.app/)
 
 <h2>Demo Video</h2>
-[https://s4.ezgif.com/tmp/ezgif-454ae372058964.gif]
-
+![demo](https://github.com/user-attachments/assets/dbb8ac65-1ff3-4ae6-a117-66ee991009c2)
 
 <h2>🛠️ Installation Steps:</h2>
 
