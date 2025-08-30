@@ -9,8 +9,6 @@
 [https://duostudio-landingpage.netlify.app/](https://duostudio-landingpage.netlify.app/)
 
 <h2>Demo Video</h2>
-![demo](https://github.com/user-attachments/assets/beb250a0-d8c4-43af-9eb8-4964d68f2377)
-
 
 https://github.com/user-attachments/assets/591ae6e2-9e2c-4128-9042-550e4f4f48c6
 
